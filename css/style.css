@@ -1,3 +1,10 @@
+/* add fonts */
+
+@font-face {
+    font-family: 'museosans300';
+    src: url('alphafont.ttf');
+}
+
 /*
 
 Theme Name: iLnad
