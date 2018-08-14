@@ -2304,10 +2304,3 @@ padding: 120px 10px 50px 350px;
 /*---------------------------------------------------
 ------- Media Queries for Split Layout Ends ---------
 ---------------------------------------------------*/
-
-/* add fonts */
-
-@font-face {
-    font-family: 'museo';
-    src: url('alphafont.ttf');
-}
