@@ -252,6 +252,12 @@ p {
 	-moz-transition: 200ms;
 	-o-transition: 200ms;
 	transition: 200ms;
+	    background-size: 100%;
+    background-position: 0 0;
+    width: 220px;
+    height: 87px;
+    float: left;
+    margin-left: 16px;
 }
 
 .navbar-default .navbar-brand:hover {
