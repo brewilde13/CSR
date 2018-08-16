@@ -1,3 +1,10 @@
+/* add fonts */
+
+@font-face {
+    font-family: 'museosans300';
+    src: url('alphafont.ttf');
+}
+
 /*
 
 Theme Name: iLnad
@@ -2298,9 +2305,3 @@ padding: 120px 10px 50px 350px;
 ------- Media Queries for Split Layout Ends ---------
 ---------------------------------------------------*/
 
-/* add fonts */
-
-@font-face {
-    font-family: 'museo';
-    src: url('alphafont.ttf');
-}
